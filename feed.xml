@@ -13,5 +13,47 @@
       <itunes:email>bigelephant29+morgen@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
-  <item><title>2026-03-08 - Im Kino (在電影院)</title><description>Daily German Learning: Im Kino (在電影院).</description><pubDate>Sun, 08 Mar 2026 02:18:05 GMT</pubDate><guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260308_83957468.mp3</guid><enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260308_83957468.mp3" length="4053829" type="audio/mpeg" /></item><item><title>2026-03-07 - In der Bücherei (在圖書館)</title><description>Daily German Learning: In der Bücherei (在圖書館).</description><pubDate>Sat, 07 Mar 2026 02:15:24 GMT</pubDate><guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260307_ab79033f.mp3</guid><enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260307_ab79033f.mp3" length="3445698" type="audio/mpeg" /></item><item><title>2026-03-06 - Ein Paket bei der Post abholen (在郵局領取包裹)</title><description>Daily German Learning: Ein Paket bei der Post abholen (在郵局領取包裹).</description><pubDate>Fri, 06 Mar 2026 02:16:27 GMT</pubDate><guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260306_ccfe204b.mp3</guid><enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260306_ccfe204b.mp3" length="2136650" type="audio/mpeg" /></item><item><title>2026-03-05 - Reparatur im Haushalt (家用電器維修)</title><description>Daily German Learning: Reparatur im Haushalt (家用電器維修).</description><pubDate>Thu, 05 Mar 2026 02:18:38 GMT</pubDate><guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260305_71635433.mp3</guid><enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260305_71635433.mp3" length="3792395" type="audio/mpeg" /></item><item><title>2026-03-04 - Fitness und Gesundheit (健身與健康)</title><description>Daily German Learning: Fitness und Gesundheit (健身與健康).</description><pubDate>Wed, 04 Mar 2026 06:50:41 GMT</pubDate><guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260304_4267b0c7.mp3</guid><enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260304_4267b0c7.mp3" length="3163576" type="audio/mpeg" /></item></channel>
+    <item>
+      <title>2026-03-09 - Umweltschutz im Alltag (日常生活中保護環境)</title>
+      <description>Daily German Learning: Umweltschutz im Alltag (日常生活中保護環境).</description>
+      <pubDate>Mon, 09 Mar 2026 02:26:13 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260309_77e6c320.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260309_77e6c320.mp3" length="4395510" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>2026-03-08 - Im Kino (在電影院)</title>
+      <description>Daily German Learning: Im Kino (在電影院).</description>
+      <pubDate>Sun, 08 Mar 2026 02:18:05 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260308_83957468.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260308_83957468.mp3" length="4053829" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>2026-03-07 - In der Bücherei (在圖書館)</title>
+      <description>Daily German Learning: In der Bücherei (在圖書館).</description>
+      <pubDate>Sat, 07 Mar 2026 02:15:24 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260307_ab79033f.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260307_ab79033f.mp3" length="3445698" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>2026-03-06 - Ein Paket bei der Post abholen (在郵局領取包裹)</title>
+      <description>Daily German Learning: Ein Paket bei der Post abholen (在郵局領取包裹).</description>
+      <pubDate>Fri, 06 Mar 2026 02:16:27 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260306_ccfe204b.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260306_ccfe204b.mp3" length="2136650" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>2026-03-05 - Reparatur im Haushalt (家用電器維修)</title>
+      <description>Daily German Learning: Reparatur im Haushalt (家用電器維修).</description>
+      <pubDate>Thu, 05 Mar 2026 02:18:38 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260305_71635433.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260305_71635433.mp3" length="3792395" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>2026-03-04 - Fitness und Gesundheit (健身與健康)</title>
+      <description>Daily German Learning: Fitness und Gesundheit (健身與健康).</description>
+      <pubDate>Wed, 04 Mar 2026 06:50:41 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260304_4267b0c7.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260304_4267b0c7.mp3" length="3163576" type="audio/mpeg" />
+    </item>
+  </channel>
 </rss>
