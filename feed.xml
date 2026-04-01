@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-01 - Reiseplanung und Hotelbuchung (規劃旅遊與訂房)</title>
+      <description>Daily German Learning: Reiseplanung und Hotelbuchung (規劃旅遊與訂房).</description>
+      <pubDate>Wed, 01 Apr 2026 01:06:23 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260401_df382d69.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260401_df382d69.mp3" length="4097324" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-03-31 - Im Fitnessstudio - Anmeldung und Beratung (在健身房 - 報名與諮詢)</title>
       <description>Daily German Learning: Im Fitnessstudio - Anmeldung und Beratung (在健身房 - 報名與諮詢).</description>
       <pubDate>Tue, 31 Mar 2026 01:27:21 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Thu, 05 Mar 2026 02:18:38 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260305_71635433.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260305_71635433.mp3" length="3792395" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-04 - Fitness und Gesundheit (健身與健康)</title>
-      <description>Daily German Learning: Fitness und Gesundheit (健身與健康).</description>
-      <pubDate>Wed, 04 Mar 2026 06:50:41 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260304_4267b0c7.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260304_4267b0c7.mp3" length="3163576" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
