@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-05 - WG-Besichtigung (分租公寓看房)</title>
+      <description>Daily German Learning: WG-Besichtigung (分租公寓看房).</description>
+      <pubDate>Sun, 05 Apr 2026 13:13:08 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260405_adea5595.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260405_adea5595.mp3" length="3728204" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-04 - Im Fundbüro (在失物招領處)</title>
       <description>Daily German Learning: Im Fundbüro (在失物招領處).</description>
       <pubDate>Sat, 04 Apr 2026 01:06:10 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Wed, 11 Mar 2026 02:09:02 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260311_89c0f930.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260311_89c0f930.mp3" length="4374194" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-10 - Eröffnung eines Bankkontos (開設銀行帳戶)</title>
-      <description>Daily German Learning: Eröffnung eines Bankkontos (開設銀行帳戶).</description>
-      <pubDate>Tue, 10 Mar 2026 02:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260310_45af583b.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260310_45af583b.mp3" length="3988000" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
