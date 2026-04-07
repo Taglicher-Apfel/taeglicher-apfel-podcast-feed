@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-07 - 在飯店預訂房間 (Ein Zimmer im Hotel buchen)</title>
+      <description>Daily German Learning: 在飯店預訂房間 (Ein Zimmer im Hotel buchen).</description>
+      <pubDate>Tue, 07 Apr 2026 01:12:56 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260407_0fe4f2ad.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260407_0fe4f2ad.mp3" length="3871724" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-06 - In der Apotheke (在藥局)</title>
       <description>Daily German Learning: In der Apotheke (在藥局).</description>
       <pubDate>Mon, 06 Apr 2026 01:02:23 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Fri, 13 Mar 2026 02:15:27 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260313_a3a82365.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260313_a3a82365.mp3" length="5382939" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-12 - Ein Problem mit dem Internetanschluss (網路連線問題)</title>
-      <description>Daily German Learning: Ein Problem mit dem Internetanschluss (網路連線問題).</description>
-      <pubDate>Thu, 12 Mar 2026 02:04:42 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260312_51e885ea.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260312_51e885ea.mp3" length="5083262" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
