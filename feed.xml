@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-08 - Ein Museumsbesuch (參觀博物館)</title>
+      <description>Daily German Learning: Ein Museumsbesuch (參觀博物館).</description>
+      <pubDate>Wed, 08 Apr 2026 01:19:01 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260408_e37f3818.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260408_e37f3818.mp3" length="3331724" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-07 - 在飯店預訂房間 (Ein Zimmer im Hotel buchen)</title>
       <description>Daily German Learning: 在飯店預訂房間 (Ein Zimmer im Hotel buchen).</description>
       <pubDate>Tue, 07 Apr 2026 01:12:56 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sat, 14 Mar 2026 02:15:31 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260314_f5506d0f.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260314_f5506d0f.mp3" length="4193636" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-13 - Ein Kochkurs-Erlebnis (烹飪課程體驗)</title>
-      <description>Daily German Learning: Ein Kochkurs-Erlebnis (烹飪課程體驗).</description>
-      <pubDate>Fri, 13 Mar 2026 02:15:27 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260313_a3a82365.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260313_a3a82365.mp3" length="5382939" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
