@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-09 - Wohnungsbesichtigung - Eine neue Wohnung suchen (看房 - 尋找新公寓)</title>
+      <description>Daily German Learning: Wohnungsbesichtigung - Eine neue Wohnung suchen (看房 - 尋找新公寓).</description>
+      <pubDate>Thu, 09 Apr 2026 01:02:06 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260409_cdecb5ba.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260409_cdecb5ba.mp3" length="3892364" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-08 - Ein Museumsbesuch (參觀博物館)</title>
       <description>Daily German Learning: Ein Museumsbesuch (參觀博物館).</description>
       <pubDate>Wed, 08 Apr 2026 01:19:01 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sun, 15 Mar 2026 02:07:57 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260315_a7b1f3eb.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260315_a7b1f3eb.mp3" length="4970413" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-14 - Ein Auto mieten (租車)</title>
-      <description>Daily German Learning: Ein Auto mieten (租車).</description>
-      <pubDate>Sat, 14 Mar 2026 02:15:31 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260314_f5506d0f.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260314_f5506d0f.mp3" length="4193636" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
