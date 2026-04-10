@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-10 - Ein neues Hobby: Die Fotografie (探索新愛好：攝影)</title>
+      <description>Daily German Learning: Ein neues Hobby: Die Fotografie (探索新愛好：攝影).</description>
+      <pubDate>Fri, 10 Apr 2026 01:09:05 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260410_f59bb3bf.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260410_f59bb3bf.mp3" length="3961004" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-09 - Wohnungsbesichtigung - Eine neue Wohnung suchen (看房 - 尋找新公寓)</title>
       <description>Daily German Learning: Wohnungsbesichtigung - Eine neue Wohnung suchen (看房 - 尋找新公寓).</description>
       <pubDate>Thu, 09 Apr 2026 01:02:06 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Mon, 16 Mar 2026 02:08:43 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260316_d911b13c.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260316_d911b13c.mp3" length="4634374" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-15 - Am Fahrkartenschalter (在火車站售票處)</title>
-      <description>Daily German Learning: Am Fahrkartenschalter (在火車站售票處).</description>
-      <pubDate>Sun, 15 Mar 2026 02:07:57 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260315_a7b1f3eb.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260315_a7b1f3eb.mp3" length="4970413" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
