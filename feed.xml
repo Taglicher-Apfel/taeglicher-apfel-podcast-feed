@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-12 - Diskussion über eine Stellenanzeige (討論職缺廣告)</title>
+      <description>Daily German Learning: Diskussion über eine Stellenanzeige (討論職缺廣告).</description>
+      <pubDate>Sun, 12 Apr 2026 01:09:03 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260412_55c69662.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260412_55c69662.mp3" length="3508844" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-11 - In der Bibliothek - Bücher ausleihen (在圖書館 - 借閱書籍)</title>
       <description>Daily German Learning: In der Bibliothek - Bücher ausleihen (在圖書館 - 借閱書籍).</description>
       <pubDate>Sat, 11 Apr 2026 01:06:52 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Wed, 18 Mar 2026 02:13:52 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260318_9d1b6067.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260318_9d1b6067.mp3" length="4243164" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-17 - Auf Wohnungssuche - Besichtigung einer Wohngemeinschaft</title>
-      <description>Daily German Learning: Auf Wohnungssuche - Besichtigung einer Wohngemeinschaft.</description>
-      <pubDate>Tue, 17 Mar 2026 02:17:18 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260317_564bbdb6.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260317_564bbdb6.mp3" length="4893927" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
