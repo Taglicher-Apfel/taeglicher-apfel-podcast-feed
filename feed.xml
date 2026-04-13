@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-13 - Die Planung einer Überraschungsparty (規劃驚喜派對)</title>
+      <description>Daily German Learning: Die Planung einer Überraschungsparty (規劃驚喜派對).</description>
+      <pubDate>Mon, 13 Apr 2026 01:05:38 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260413_3ed78e68.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260413_3ed78e68.mp3" length="3060044" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-12 - Diskussion über eine Stellenanzeige (討論職缺廣告)</title>
       <description>Daily German Learning: Diskussion über eine Stellenanzeige (討論職缺廣告).</description>
       <pubDate>Sun, 12 Apr 2026 01:09:03 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Thu, 19 Mar 2026 02:18:20 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260319_67247da2.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260319_67247da2.mp3" length="4366671" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-18 - Wanderausflug planen (規劃健行行程)</title>
-      <description>Daily German Learning: Wanderausflug planen (規劃健行行程).</description>
-      <pubDate>Wed, 18 Mar 2026 02:13:52 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260318_9d1b6067.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260318_9d1b6067.mp3" length="4243164" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
