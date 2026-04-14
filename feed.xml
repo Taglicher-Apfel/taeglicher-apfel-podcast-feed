@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-14 - Ein Besuch auf dem Flohmarkt (逛跳蚤市場)</title>
+      <description>Daily German Learning: Ein Besuch auf dem Flohmarkt (逛跳蚤市場).</description>
+      <pubDate>Tue, 14 Apr 2026 01:09:51 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_2688a8d9.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_2688a8d9.mp3" length="4380524" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-13 - Die Planung einer Überraschungsparty (規劃驚喜派對)</title>
       <description>Daily German Learning: Die Planung einer Überraschungsparty (規劃驚喜派對).</description>
       <pubDate>Mon, 13 Apr 2026 01:05:38 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Fri, 20 Mar 2026 02:17:54 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260320_491b82f7.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260320_491b82f7.mp3" length="4665094" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-19 - Ehrenamtliche Arbeit im Tierheim (在動物收容所做志工)</title>
-      <description>Daily German Learning: Ehrenamtliche Arbeit im Tierheim (在動物收容所做志工).</description>
-      <pubDate>Thu, 19 Mar 2026 02:18:20 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260319_67247da2.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260319_67247da2.mp3" length="4366671" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
