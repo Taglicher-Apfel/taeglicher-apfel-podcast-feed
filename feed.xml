@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-15 - Im Kino - Einen Film auswählen und Karten kaufen (在電影院 - 選擇電影與買票)</title>
+      <description>Daily German Learning: Im Kino - Einen Film auswählen und Karten kaufen (在電影院 - 選擇電影與買票).</description>
+      <pubDate>Wed, 15 Apr 2026 01:08:42 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260415_acb2ad9e.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260415_acb2ad9e.mp3" length="3903884" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-14 - Fahrradreparatur in der Werkstatt (在腳踏車修理店)</title>
       <description>Daily German Learning: Fahrradreparatur in der Werkstatt (在腳踏車修理店).</description>
       <pubDate>Tue, 14 Apr 2026 01:16:09 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sun, 22 Mar 2026 02:07:55 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260322_047bcb36.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260322_047bcb36.mp3" length="4873238" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-21 - Beim Zahnarzt (在牙醫診所)</title>
-      <description>Daily German Learning: Beim Zahnarzt (在牙醫診所).</description>
-      <pubDate>Sat, 21 Mar 2026 02:18:13 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260321_6af0b9fb.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260321_6af0b9fb.mp3" length="4997372" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
