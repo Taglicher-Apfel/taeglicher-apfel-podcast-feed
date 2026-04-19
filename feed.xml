@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-19 - Ein Ausflug zum See (去湖邊郊遊)</title>
+      <description>Daily German Learning: Ein Ausflug zum See (去湖邊郊遊).</description>
+      <pubDate>Sun, 19 Apr 2026 01:10:19 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_2aded2c6.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_2aded2c6.mp3" length="3467084" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-18 - Gesunde Ernährung und gemeinsames Kochen (健康飲食與共同下廚)</title>
       <description>Daily German Learning: Gesunde Ernährung und gemeinsames Kochen (健康飲食與共同下廚).</description>
       <pubDate>Sat, 18 Apr 2026 01:16:29 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Thu, 26 Mar 2026 02:08:18 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260326_220ef674.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260326_220ef674.mp3" length="4907092" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-25 - Eine Stellenanzeige finden (尋找徵人廣告)</title>
-      <description>Daily German Learning: Eine Stellenanzeige finden (尋找徵人廣告).</description>
-      <pubDate>Wed, 25 Mar 2026 02:08:21 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260325_34e19d68.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260325_34e19d68.mp3" length="4429365" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
