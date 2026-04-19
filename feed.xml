@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-19 - Diskussion über ein Konzert (關於音樂會的討論)</title>
+      <description>Daily German Learning: Diskussion über ein Konzert (關於音樂會的討論).</description>
+      <pubDate>Sun, 19 Apr 2026 01:14:47 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_11611e43.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_11611e43.mp3" length="3957164" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-19 - Ein Ausflug zum See (去湖邊郊遊)</title>
       <description>Daily German Learning: Ein Ausflug zum See (去湖邊郊遊).</description>
       <pubDate>Sun, 19 Apr 2026 01:10:19 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Fri, 27 Mar 2026 02:17:44 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260327_89de62b8.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260327_89de62b8.mp3" length="5245012" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-26 - Im Reisebüro - Eine Städtereise buchen (在旅行社預訂城市旅遊)</title>
-      <description>Daily German Learning: Im Reisebüro - Eine Städtereise buchen (在旅行社預訂城市旅遊).</description>
-      <pubDate>Thu, 26 Mar 2026 02:08:18 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260326_220ef674.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260326_220ef674.mp3" length="4907092" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
