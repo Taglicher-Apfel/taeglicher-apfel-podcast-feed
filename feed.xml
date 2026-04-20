@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-20 - Internetprobleme und technischer Support (網路連線問題與技術支援)</title>
+      <description>Daily German Learning: Internetprobleme und technischer Support (網路連線問題與技術支援).</description>
+      <pubDate>Mon, 20 Apr 2026 01:20:45 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260420_8e8f5d7d.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260420_8e8f5d7d.mp3" length="3827084" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-19 - Diskussion über ein Konzert (關於音樂會的討論)</title>
       <description>Daily German Learning: Diskussion über ein Konzert (關於音樂會的討論).</description>
       <pubDate>Sun, 19 Apr 2026 01:14:47 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sat, 28 Mar 2026 02:19:40 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260328_e170d697.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260328_e170d697.mp3" length="4956621" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-27 - In der Stadtbibliothek (在市立圖書館)</title>
-      <description>Daily German Learning: In der Stadtbibliothek (在市立圖書館).</description>
-      <pubDate>Fri, 27 Mar 2026 02:17:44 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260327_89de62b8.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260327_89de62b8.mp3" length="5245012" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
