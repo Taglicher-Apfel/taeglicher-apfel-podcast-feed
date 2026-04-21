@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-21 - Anmeldung im Fitnessstudio (健身房報名)</title>
+      <description>Daily German Learning: Anmeldung im Fitnessstudio (健身房報名).</description>
+      <pubDate>Tue, 21 Apr 2026 01:02:15 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260421_9bca2c33.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260421_9bca2c33.mp3" length="3510764" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-20 - Ein Geburtstagsgeschenk kaufen (購買生日禮物)</title>
       <description>Daily German Learning: Ein Geburtstagsgeschenk kaufen (購買生日禮物).</description>
       <pubDate>Mon, 20 Apr 2026 01:23:58 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Mon, 30 Mar 2026 01:19:25 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260330_78bbf8ce.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260330_78bbf8ce.mp3" length="5391089" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-29 - Im Supermarkt: Vorbereitung für ein gemeinsames Abendessen</title>
-      <description>Daily German Learning: Im Supermarkt: Vorbereitung für ein gemeinsames Abendessen.</description>
-      <pubDate>Sun, 29 Mar 2026 01:08:22 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260329_c0ea83a9.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260329_c0ea83a9.mp3" length="5307706" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
