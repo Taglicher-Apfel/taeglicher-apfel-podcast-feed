@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-22 - Wochenendwanderung in den Bergen (週末山區健行)</title>
+      <description>Daily German Learning: Wochenendwanderung in den Bergen (週末山區健行).</description>
+      <pubDate>Wed, 22 Apr 2026 01:02:29 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260422_63e4a6a8.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260422_63e4a6a8.mp3" length="3528524" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-21 - Anmeldung im Fitnessstudio (健身房報名)</title>
       <description>Daily German Learning: Anmeldung im Fitnessstudio (健身房報名).</description>
       <pubDate>Tue, 21 Apr 2026 01:02:15 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Tue, 31 Mar 2026 01:27:21 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260331_366b0d9e.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260331_366b0d9e.mp3" length="3982604" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-03-30 - Reklamation im Elektronikgeschäft (在電子產品商店退換貨)</title>
-      <description>Daily German Learning: Reklamation im Elektronikgeschäft (在電子產品商店退換貨).</description>
-      <pubDate>Mon, 30 Mar 2026 01:19:25 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260330_78bbf8ce.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260330_78bbf8ce.mp3" length="5391089" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
