@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-25 - Ein Besuch im Fundbüro (在遺失物招領處)</title>
+      <description>Daily German Learning: Ein Besuch im Fundbüro (在遺失物招領處).</description>
+      <pubDate>Sat, 25 Apr 2026 01:12:21 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260425_aa0f7c9f.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260425_aa0f7c9f.mp3" length="3966284" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-24 - Ein Besuch auf dem Flohmarkt (逛跳蚤市場)</title>
       <description>Daily German Learning: Ein Besuch auf dem Flohmarkt (逛跳蚤市場).</description>
       <pubDate>Fri, 24 Apr 2026 01:18:57 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Thu, 02 Apr 2026 01:20:22 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260402_521662d7.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260402_521662d7.mp3" length="2960204" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-02 - Wohnungsrenovierung (房屋裝修)</title>
-      <description>Daily German Learning: Wohnungsrenovierung (房屋裝修).</description>
-      <pubDate>Thu, 02 Apr 2026 01:10:06 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260402_e7c504e1.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260402_e7c504e1.mp3" length="3382124" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
