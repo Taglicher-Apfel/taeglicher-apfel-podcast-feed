@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-27 - Ein Wochenendausflug nach Hamburg (漢堡週末小旅行)</title>
+      <description>Daily German Learning: Ein Wochenendausflug nach Hamburg (漢堡週末小旅行).</description>
+      <pubDate>Mon, 27 Apr 2026 01:06:32 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260427_db61d705.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260427_db61d705.mp3" length="3930764" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-26 - Ein Besuch in der Kunstgalerie (參觀藝術畫廊)</title>
       <description>Daily German Learning: Ein Besuch in der Kunstgalerie (參觀藝術畫廊).</description>
       <pubDate>Sun, 26 Apr 2026 01:09:03 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Fri, 03 Apr 2026 01:06:51 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260403_6922038d.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260403_6922038d.mp3" length="4241324" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-02 - Im Fitnessstudio - Sport und Gesundheit (在健身房 - 運動與健康)</title>
-      <description>Daily German Learning: Im Fitnessstudio - Sport und Gesundheit (在健身房 - 運動與健康).</description>
-      <pubDate>Thu, 02 Apr 2026 01:23:48 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260402_81674cd4.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260402_81674cd4.mp3" length="3541004" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
