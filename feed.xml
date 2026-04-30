@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-04-30 - Ein Beratungsgespräch bei der Bank (在銀行進行諮詢)</title>
+      <description>Daily German Learning: Ein Beratungsgespräch bei der Bank (在銀行進行諮詢).</description>
+      <pubDate>Thu, 30 Apr 2026 01:02:14 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260430_2c3b0f73.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260430_2c3b0f73.mp3" length="3536204" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-04-29 - Jobsuche in einem Café (在咖啡廳找工作)</title>
       <description>Daily German Learning: Jobsuche in einem Café (在咖啡廳找工作).</description>
       <pubDate>Wed, 29 Apr 2026 01:08:24 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Mon, 06 Apr 2026 01:02:23 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260406_4decf19c.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260406_4decf19c.mp3" length="3787244" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-05 - WG-Besichtigung (分租公寓看房)</title>
-      <description>Daily German Learning: WG-Besichtigung (分租公寓看房).</description>
-      <pubDate>Sun, 05 Apr 2026 13:13:08 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260405_adea5595.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260405_adea5595.mp3" length="3728204" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
