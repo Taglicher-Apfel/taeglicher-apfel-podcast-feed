@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-02 - Suche nach einem WG-Zimmer (尋找合租房)</title>
+      <description>Daily German Learning: Suche nach einem WG-Zimmer (尋找合租房).</description>
+      <pubDate>Sat, 02 May 2026 01:08:02 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260502_aceab174.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260502_aceab174.mp3" length="3954284" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-01 - Bei der Post: Ein Paket ins Ausland verschicken (在郵局：寄送包裹到國外)</title>
       <description>Daily German Learning: Bei der Post: Ein Paket ins Ausland verschicken (在郵局：寄送包裹到國外).</description>
       <pubDate>Fri, 01 May 2026 01:05:23 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Wed, 08 Apr 2026 01:19:01 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260408_e37f3818.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260408_e37f3818.mp3" length="3331724" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-07 - 在飯店預訂房間 (Ein Zimmer im Hotel buchen)</title>
-      <description>Daily German Learning: 在飯店預訂房間 (Ein Zimmer im Hotel buchen).</description>
-      <pubDate>Tue, 07 Apr 2026 01:12:56 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260407_0fe4f2ad.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260407_0fe4f2ad.mp3" length="3871724" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
