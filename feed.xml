@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-04 - Beim Hausarzt (在家庭醫師診所)</title>
+      <description>Daily German Learning: Beim Hausarzt (在家庭醫師診所).</description>
+      <pubDate>Mon, 04 May 2026 01:05:38 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260504_c2f1481e.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260504_c2f1481e.mp3" length="3179084" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-03 - Ein WG-Zimmer besichtigen (參觀合租公寓房間)</title>
       <description>Daily German Learning: Ein WG-Zimmer besichtigen (參觀合租公寓房間).</description>
       <pubDate>Sun, 03 May 2026 01:09:12 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Fri, 10 Apr 2026 01:09:05 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260410_f59bb3bf.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260410_f59bb3bf.mp3" length="3961004" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-09 - Wohnungsbesichtigung - Eine neue Wohnung suchen (看房 - 尋找新公寓)</title>
-      <description>Daily German Learning: Wohnungsbesichtigung - Eine neue Wohnung suchen (看房 - 尋找新公寓).</description>
-      <pubDate>Thu, 09 Apr 2026 01:02:06 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260409_cdecb5ba.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260409_cdecb5ba.mp3" length="3892364" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
