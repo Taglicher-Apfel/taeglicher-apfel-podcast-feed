@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-06 - Im Bahnhof - Eine Reise planen (在火車站 - 規劃旅程)</title>
+      <description>Daily German Learning: Im Bahnhof - Eine Reise planen (在火車站 - 規劃旅程).</description>
+      <pubDate>Wed, 06 May 2026 01:05:38 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260506_e31b102a.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260506_e31b102a.mp3" length="3410444" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-05 - Beim Arzt - Eine Erkältung behandeln (在診所 - 治療感冒)</title>
       <description>Daily German Learning: Beim Arzt - Eine Erkältung behandeln (在診所 - 治療感冒).</description>
       <pubDate>Tue, 05 May 2026 01:05:51 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sun, 12 Apr 2026 01:09:03 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260412_55c69662.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260412_55c69662.mp3" length="3508844" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-11 - In der Bibliothek - Bücher ausleihen (在圖書館 - 借閱書籍)</title>
-      <description>Daily German Learning: In der Bibliothek - Bücher ausleihen (在圖書館 - 借閱書籍).</description>
-      <pubDate>Sat, 11 Apr 2026 01:06:52 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260411_6282a3a1.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260411_6282a3a1.mp3" length="3947084" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
