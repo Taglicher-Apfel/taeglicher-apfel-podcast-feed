@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-07 - Eine Wanderung planen (計劃一次健行)</title>
+      <description>Daily German Learning: Eine Wanderung planen (計劃一次健行).</description>
+      <pubDate>Thu, 07 May 2026 01:07:59 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260507_aae2717b.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260507_aae2717b.mp3" length="3432524" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-06 - Im Bahnhof - Eine Reise planen (在火車站 - 規劃旅程)</title>
       <description>Daily German Learning: Im Bahnhof - Eine Reise planen (在火車站 - 規劃旅程).</description>
       <pubDate>Wed, 06 May 2026 01:05:38 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Mon, 13 Apr 2026 01:05:38 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260413_3ed78e68.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260413_3ed78e68.mp3" length="3060044" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-12 - Diskussion über eine Stellenanzeige (討論職缺廣告)</title>
-      <description>Daily German Learning: Diskussion über eine Stellenanzeige (討論職缺廣告).</description>
-      <pubDate>Sun, 12 Apr 2026 01:09:03 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260412_55c69662.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260412_55c69662.mp3" length="3508844" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
