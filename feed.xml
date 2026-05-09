@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-09 - Jobsuche und Vorbereitung auf ein Vorstellungsgespräch (尋找工作與準備面試)</title>
+      <description>Daily German Learning: Jobsuche und Vorbereitung auf ein Vorstellungsgespräch (尋找工作與準備面試).</description>
+      <pubDate>Sat, 09 May 2026 01:16:16 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260509_1e362f47.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260509_1e362f47.mp3" length="3476684" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-08 - Ein Umzug am Wochenende (週末搬家)</title>
       <description>Daily German Learning: Ein Umzug am Wochenende (週末搬家).</description>
       <pubDate>Fri, 08 May 2026 01:09:38 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Tue, 14 Apr 2026 01:16:09 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_5a0782cc.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_5a0782cc.mp3" length="3339884" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-14 - Ein Besuch auf dem Flohmarkt (逛跳蚤市場)</title>
-      <description>Daily German Learning: Ein Besuch auf dem Flohmarkt (逛跳蚤市場).</description>
-      <pubDate>Tue, 14 Apr 2026 01:09:51 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_2688a8d9.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_2688a8d9.mp3" length="4380524" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
