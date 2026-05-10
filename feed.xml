@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-10 - Ein Vorstellungsgespräch für einen Nebenjob (應徵兼職工作的面試)</title>
+      <description>Daily German Learning: Ein Vorstellungsgespräch für einen Nebenjob (應徵兼職工作的面試).</description>
+      <pubDate>Sun, 10 May 2026 01:09:49 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260510_7222e8b0.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260510_7222e8b0.mp3" length="3868844" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-09 - Jobsuche und Vorbereitung auf ein Vorstellungsgespräch (尋找工作與準備面試)</title>
       <description>Daily German Learning: Jobsuche und Vorbereitung auf ein Vorstellungsgespräch (尋找工作與準備面試).</description>
       <pubDate>Sat, 09 May 2026 01:16:16 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Wed, 15 Apr 2026 01:08:42 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260415_acb2ad9e.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260415_acb2ad9e.mp3" length="3903884" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-14 - Fahrradreparatur in der Werkstatt (在腳踏車修理店)</title>
-      <description>Daily German Learning: Fahrradreparatur in der Werkstatt (在腳踏車修理店).</description>
-      <pubDate>Tue, 14 Apr 2026 01:16:09 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_5a0782cc.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260414_5a0782cc.mp3" length="3339884" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
