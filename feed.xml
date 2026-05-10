@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-10 - 為同事策劃告別派對 (Abschiedsfeier für einen Kollegen planen)</title>
+      <description>Daily German Learning: 為同事策劃告別派對 (Abschiedsfeier für einen Kollegen planen).</description>
+      <pubDate>Sun, 10 May 2026 01:19:20 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260510_31720062.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260510_31720062.mp3" length="3776204" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-10 - Ein Vorstellungsgespräch für einen Nebenjob (應徵兼職工作的面試)</title>
       <description>Daily German Learning: Ein Vorstellungsgespräch für einen Nebenjob (應徵兼職工作的面試).</description>
       <pubDate>Sun, 10 May 2026 01:09:49 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Thu, 16 Apr 2026 01:06:58 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260416_09ddb356.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260416_09ddb356.mp3" length="3556364" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-15 - Im Kino - Einen Film auswählen und Karten kaufen (在電影院 - 選擇電影與買票)</title>
-      <description>Daily German Learning: Im Kino - Einen Film auswählen und Karten kaufen (在電影院 - 選擇電影與買票).</description>
-      <pubDate>Wed, 15 Apr 2026 01:08:42 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260415_acb2ad9e.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260415_acb2ad9e.mp3" length="3903884" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
