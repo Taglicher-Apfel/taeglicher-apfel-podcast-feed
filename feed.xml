@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-11 - In der Autowerkstatt (在汽車修理廠)</title>
+      <description>Daily German Learning: In der Autowerkstatt (在汽車修理廠).</description>
+      <pubDate>Mon, 11 May 2026 01:10:10 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260511_fab7c1cb.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260511_fab7c1cb.mp3" length="3248684" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-10 - 為同事策劃告別派對 (Abschiedsfeier für einen Kollegen planen)</title>
       <description>Daily German Learning: 為同事策劃告別派對 (Abschiedsfeier für einen Kollegen planen).</description>
       <pubDate>Sun, 10 May 2026 01:19:20 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Fri, 17 Apr 2026 01:17:27 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260417_c67fb32a.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260417_c67fb32a.mp3" length="3343244" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-16 - Ein Geschenk für eine Hochzeit aussuchen</title>
-      <description>Daily German Learning: Ein Geschenk für eine Hochzeit aussuchen.</description>
-      <pubDate>Thu, 16 Apr 2026 01:06:58 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260416_09ddb356.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260416_09ddb356.mp3" length="3556364" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
