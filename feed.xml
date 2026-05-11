@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-11 - Im Supermarkt: Nachhaltiger Einkauf (在超市：永續購物)</title>
+      <description>Daily German Learning: Im Supermarkt: Nachhaltiger Einkauf (在超市：永續購物).</description>
+      <pubDate>Mon, 11 May 2026 01:25:36 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260511_1de5566c.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260511_1de5566c.mp3" length="3159884" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-11 - In der Autowerkstatt (在汽車修理廠)</title>
       <description>Daily German Learning: In der Autowerkstatt (在汽車修理廠).</description>
       <pubDate>Mon, 11 May 2026 01:10:10 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sat, 18 Apr 2026 01:16:29 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260418_d55ef9af.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260418_d55ef9af.mp3" length="3066764" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-17 - 參觀藝術展覽 (Besuch einer Kunstausstellung)</title>
-      <description>Daily German Learning: 參觀藝術展覽 (Besuch einer Kunstausstellung).</description>
-      <pubDate>Fri, 17 Apr 2026 01:17:27 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260417_c67fb32a.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260417_c67fb32a.mp3" length="3343244" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
