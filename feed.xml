@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-12 - Probleme mit dem Internetanbieter (與網路供應商的問題)</title>
+      <description>Daily German Learning: Probleme mit dem Internetanbieter (與網路供應商的問題).</description>
+      <pubDate>Tue, 12 May 2026 01:05:30 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260512_ec4b0dcc.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260512_ec4b0dcc.mp3" length="4058444" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-11 - Im Supermarkt: Nachhaltiger Einkauf (在超市：永續購物)</title>
       <description>Daily German Learning: Im Supermarkt: Nachhaltiger Einkauf (在超市：永續購物).</description>
       <pubDate>Mon, 11 May 2026 01:25:36 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sun, 19 Apr 2026 01:10:19 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_2aded2c6.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_2aded2c6.mp3" length="3467084" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-18 - Gesunde Ernährung und gemeinsames Kochen (健康飲食與共同下廚)</title>
-      <description>Daily German Learning: Gesunde Ernährung und gemeinsames Kochen (健康飲食與共同下廚).</description>
-      <pubDate>Sat, 18 Apr 2026 01:16:29 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260418_d55ef9af.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260418_d55ef9af.mp3" length="3066764" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
