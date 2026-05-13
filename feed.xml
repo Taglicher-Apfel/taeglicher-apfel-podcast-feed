@@ -14,6 +14,13 @@
     </itunes:owner>
     <itunes:image href="https://taglicher-apfel.github.io/taeglicher-apfel-podcast-feed/icon.jpg" />
     <item>
+      <title>2026-05-13 - Anmeldung im Fitnessstudio (健身房報名)</title>
+      <description>Daily German Learning: Anmeldung im Fitnessstudio (健身房報名).</description>
+      <pubDate>Wed, 13 May 2026 01:17:03 GMT</pubDate>
+      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260513_c2de8fea.mp3</guid>
+      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260513_c2de8fea.mp3" length="4040684" type="audio/mpeg" />
+    </item>
+    <item>
       <title>2026-05-12 - Probleme mit dem Internetanbieter (與網路供應商的問題)</title>
       <description>Daily German Learning: Probleme mit dem Internetanbieter (與網路供應商的問題).</description>
       <pubDate>Tue, 12 May 2026 01:05:30 GMT</pubDate>
@@ -201,13 +208,6 @@
       <pubDate>Sun, 19 Apr 2026 01:14:47 GMT</pubDate>
       <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_11611e43.mp3</guid>
       <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_11611e43.mp3" length="3957164" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-04-19 - Ein Ausflug zum See (去湖邊郊遊)</title>
-      <description>Daily German Learning: Ein Ausflug zum See (去湖邊郊遊).</description>
-      <pubDate>Sun, 19 Apr 2026 01:10:19 GMT</pubDate>
-      <guid isPermaLink="true">https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_2aded2c6.mp3</guid>
-      <enclosure url="https://Taglicher-Apfel.github.io/taeglicher-apfel-podcast-feed/audio/Morgen_20260419_2aded2c6.mp3" length="3467084" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
